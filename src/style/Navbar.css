@@ -1,0 +1,21 @@
+
+.navbar-transparent {
+  background-color: transparent !important;
+  border: none; 
+  box-shadow: none; 
+}
+
+
+.navbar-dark .navbar-brand {
+  color: brown;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(92, 49, 49); 
+}
+
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #007bff; 
+}

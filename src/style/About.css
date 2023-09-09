@@ -1,0 +1,91 @@
+/* About.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://plus.unsplash.com/premium_photo-1683309565422-77818a287060?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80-image.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Keeps the background image fixed while scrolling */
+  font-family: Arial, sans-serif;
+}
+
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0); /* Completely transparent background */
+  color: black;
+}
+
+.about-intro {
+  margin-bottom: 20px;
+}
+
+.about-intro h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.about-intro p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.about-skills {
+  margin-bottom: 20px;
+}
+
+.about-skills h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.about-skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about-skills li {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.about-projects {
+  margin-bottom: 20px;
+}
+
+.about-projects h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+.project h4 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.project p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.download-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  margin-top: 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.download-button:hover {
+  background-color: #0056b3;
+}
