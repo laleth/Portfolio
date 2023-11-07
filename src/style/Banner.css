@@ -1,7 +1,7 @@
 /* Banner.css */
 
 .banner-container {
-  background-image: url('https://plus.unsplash.com/premium_photo-1683309565422-77818a287060?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80-image.jpg');
+  background-image: url('https://images.unsplash.com/photo-1563291074-2bf8677ac0e5?q=80&w=1907&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -9,7 +9,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  color: #fff;
+  color: black;
 }
 
 .banner-content {
@@ -37,7 +37,7 @@
   display: inline-block;
   padding: 10px 20px;
   background-color: #007bff;
-  color: #fff;
+  color: black;
   text-decoration: none;
   font-size: 16px;
   border-radius: 5px;

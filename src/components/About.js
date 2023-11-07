@@ -1,6 +1,6 @@
 import React from 'react';
 import '../style/About.css';
-import resumePDF from '../Resume/My Resume.pdf'; // Update with the actual path to your PDF file
+import resumePDF from '../Resume/LALETH Resume.pdf'; 
 
 function About() {
   const handleDownloadResume = () => {
@@ -19,9 +19,10 @@ function About() {
       <section className="about-skills">
         <h2>Skills</h2>
         <ul>
-          <li>Frontend Development</li>
-          <li>UI/UX Design</li>
-          <li>Responsive Web Design</li>
+          <li>React</li>
+          <li>Node JS</li>
+          <li>MongoDB</li>
+          <li>JavaScript</li>
           <li>MainFrame Development</li>
           <li>IBM DB2</li>
         </ul>

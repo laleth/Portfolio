@@ -20,7 +20,7 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission here, e.g., send data to a server or display a thank-you message.
+   
   };
 
   return (
